@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PastryProgressBar">
+        <attr name="maxProgress" format="integer">
+            
+        </attr>
+        <attr name="nowProgress" format="integer"></attr>
+        <attr name="startRun" format="boolean"></attr>
+        <attr name="backgroundMaxColor" format="color"></attr>
+        <attr name="runColor" format="color"></attr>
+    </declare-styleable>
+    
+</resources>
